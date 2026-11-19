@@ -20,13 +20,13 @@ I build AI tools, native Rust desktop apps, and local-first developer infrastruc
 
 | Project | What It Does | Repository |
 | :--- | :--- | :--- |
-| **Telegram CLI** | Small CLI that lets AI agents use a personal Telegram account | [harrymove-ctrl/telegram-cli](https://github.com/harrymove-ctrl/telegram-cli) |
-| **Raea** | Render Anything Engine for video, motion graphics, 3D, and games on your GPU | [harrymove-ctrl/raea](https://github.com/harrymove-ctrl/raea) |
-| **Ghostex** | Native Rust and GPUI workspace built for 20+ coding agents and Ghostty | [harrymove-ctrl/Ghostex](https://github.com/harrymove-ctrl/Ghostex) |
-| **AGY Profiles** | Clean-room multi-profile sandbox manager and MCP server for Antigravity | [harrymove-ctrl/agy-profiles](https://github.com/harrymove-ctrl/agy-profiles) |
-| **Discord Radar** | Local Discord channel archiver, SQLite FTS5 search CLI, and signal extractor | [harrymove-ctrl/discord-radar](https://github.com/harrymove-ctrl/discord-radar) |
+| **AGY Profiles** | Clean-room multi-profile sandbox manager, stdio MCP server, and local console for Antigravity | [harrymove-ctrl/agy-profiles](https://github.com/harrymove-ctrl/agy-profiles) |
+| **AI DevKit** | Documentation and engineering workflow kit supporting coding agents at CommandOSS | [CommandOSSLabs/ai-devkit](https://github.com/CommandOSSLabs/ai-devkit) |
 | **AGY Tele** | Two-way Telegram and Antigravity Desktop sync daemon built on SQLite FTS5 | [harrymove-ctrl/agy-tele](https://github.com/harrymove-ctrl/agy-tele) |
-| **Condomdom** | Personal ASCII-drawn library of UI components, videos, and agent skills | [harrymove-ctrl/condomdom](https://github.com/harrymove-ctrl/condomdom) |
+| **Discord Radar** | Local Discord channel archiver, SQLite FTS5 search CLI, and topic signal extractor | [harrymove-ctrl/discord-radar](https://github.com/harrymove-ctrl/discord-radar) |
+| **MacroGate** | Multimodal FX and Gold volatility-regime and pre-trade risk-veto copilot on TimeF | [harrymove-ctrl/macrogate](https://github.com/harrymove-ctrl/macrogate) |
+| **WhatNext** | Memory-grounded prompt prediction, live draft autocomplete, and workflow learning for agents | [harrymove-ctrl/whatnext](https://github.com/harrymove-ctrl/whatnext) |
+| **Sui CLI Web** | Keyboard-first web interface for the Sui CLI built at CommandOSS | [harrymove-ctrl/sui-cli-web](https://github.com/harrymove-ctrl/sui-cli-web) |
 
 ## Say Hi
 
