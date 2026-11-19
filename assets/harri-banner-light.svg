@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 340" fill="none">
+  <rect width="1120" height="340" rx="28" fill="#fff6ea"/>
+  <rect x="6" y="6" width="1108" height="328" rx="24" stroke="#0033e6" stroke-width="3"/>
+  <g transform="translate(88 76)">
+    <path d="M21 17C24 17 27 15 30 14C35 11 40 8 45 4" stroke="#0033e6" stroke-width="5" stroke-linecap="round"/>
+    <path d="M163 4C167 8 170 11 176 14C181 16 185 17 190 17" stroke="#0033e6" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="62" cy="92" rx="39" ry="62" transform="rotate(11 62 92)" fill="#fff6ea" stroke="#0033e6" stroke-width="6.2"/>
+    <ellipse cx="146" cy="92" rx="39" ry="62" transform="rotate(11 146 92)" fill="#fff6ea" stroke="#0033e6" stroke-width="6.2"/>
+    <path d="M66 64L61 90" stroke="#0033e6" stroke-width="8" stroke-linecap="round"/>
+    <path d="M150 64L145 90" stroke="#0033e6" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="352" y="138" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="60" font-weight="800" fill="#0033e6">Hi, I'm Harri.</text>
+  <text x="352" y="194" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="25" font-weight="600" fill="#0033e6">By day I'm a software engineer at CommandOSS.</text>
+  <text x="352" y="232" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="25" font-weight="600" fill="#0033e6">I bake a lot of bread and write it all down.</text>
+  <rect x="352" y="256" width="290" height="36" rx="18" fill="#c8b5ff"/>
+  <text x="378" y="280" font-family="ui-monospace, monospace" font-size="16" font-weight="700" fill="#0033e6">harrymove-ctrl.github.io</text>
+</svg>
