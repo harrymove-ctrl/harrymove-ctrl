@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://harrymove-ctrl.github.io/"><strong>Live Website: harrymove-ctrl.github.io ↗</strong></a>
+</p>
+
 ## Hi, I'm Harri
 
 I build AI tools, native Rust desktop apps, and local-first developer infrastructure. By day I'm a software engineer at [CommandOSS](https://github.com/CommandOSSLabs). I bake a lot of bread and write it all down on [harrymove-ctrl.github.io](https://harrymove-ctrl.github.io/).
